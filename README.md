@@ -15,6 +15,8 @@
 - 👯 I’m looking to collaborate on **any project.**
 
 - 👨‍💻 Check my portfolio at [https://portfolio-borormey.vercel.app/](https://portfolio-borormey.vercel.app/)
+  
+- 👨‍💻 Check my Gitlab account at [https://gitlab.com/phalla.boramey19/](https://gitlab.com/phalla.boramey19/)
 
 - 📫 How to reach me **borormeyphalla@gmail.com**
 
