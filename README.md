@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Borormey Phalla! 👋👋</h1>
 <h3 align="center">A self proclaimed fullstack dev that is chasing his dream!!</h3>
+<h3 align="center">I'm like a curious cat on caffeine—I dabble in everything and call myself a 'jack of all trades.' So if you need someone with a touch of chaos and a sprinkle of curiosity, I'm your go-to person!</h3>
+
+<img align="center" alt="me" width="600" src="https://as2.ftcdn.net/v2/jpg/05/82/31/15/1000_F_582311545_gyaHLpdZnueenGzQCgMWppPYh7y97tel.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorakukyo&label=Profile%20views&color=0e75b6&style=flat" alt="sorakukyo" /> </p>
 
@@ -11,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **any project.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-borormey.vercel.app/](https://portfolio-borormey.vercel.app/)
+- 👨‍💻 Check my portfolio at [https://portfolio-borormey.vercel.app/](https://portfolio-borormey.vercel.app/)
 
 - 📫 How to reach me **borormeyphalla@gmail.com**
 
