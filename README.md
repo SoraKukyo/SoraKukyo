@@ -2,7 +2,7 @@
 <h3 align="center">A self proclaimed fullstack dev that is chasing his dream!!</h3>
 <h3 align="center">I'm like a curious cat on caffeine—I dabble in everything and call myself a 'jack of all trades.' So if you need someone with a touch of chaos and a sprinkle of curiosity, I'm your go-to person!</h3>
 
-<img align="center" alt="me" width="600" src="https://as2.ftcdn.net/v2/jpg/05/82/31/15/1000_F_582311545_gyaHLpdZnueenGzQCgMWppPYh7y97tel.jpg" />
+<img align="center" alt="me" width="600" src="https://images.nightcafe.studio/jobs/ZVTWyfuygeZ52ANSOEHu/ZVTWyfuygeZ52ANSOEHu--1--b8h8r.jpg?tr=w-1600,c-at_max" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sorakukyo&label=Profile%20views&color=0e75b6&style=flat" alt="sorakukyo" /> </p>
 
